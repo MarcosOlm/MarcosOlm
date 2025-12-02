@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Marcos, sou desenvolvedor iniciante e estou focando em ser FullStack. Atualmente, estudo Análise e Desenvolvimento na Uninassau. Nesse primeiro momento, eu estou trabalhando com Angular para front-end e irei buscar Java com SpringBoot no futuro!
+Me chamo João Marcos, sou desenvolvedor iniciante e estou focando em ser Atualmente, FullStack. estudo Análise e Desenvolvimento na Uninassau. Nesse primeiro momento, eu estou trabalhando com Angular e buscando React para front-end e Node.js para back-end. 
 
 ---
 
