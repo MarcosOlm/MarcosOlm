@@ -85,7 +85,7 @@ Me chamo João Marcos, sou desenvolvedor iniciante e estou focando em ser Atualm
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=MarcosOlm&show_icons=true&theme=radical"
 />
 
 <img 
